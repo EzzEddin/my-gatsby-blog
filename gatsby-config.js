@@ -15,7 +15,7 @@ module.exports = {
       title: `Hi! I'm Ezz`,
       description: `I I made this portfolio to talk about what I do and what I read.
 
-      Short bio: a practically-minded guy who is a data engineer at Affectiva, one of the top 100 AI companies in the world, and AI enthusiast and passionate about building software applications.`,
+      Short bio: a practically-minded guy who is a data engineer at Affectiva and AI enthusiast and passionate about building software applications.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
