@@ -10,7 +10,7 @@ module.exports = {
     title: `Ezz`,
     description: `A blog to talk about what Ezz reads and learns.`,
     // change this to you website url
-    siteUrl: `https://ezz.netlify.com/`, 
+    siteUrl: `https://ezzeddin.netlify.app/`, 
     home: {
       title: `Hi! I'm Ezz`,
       description: `I I made this portfolio to talk about what I do and what I read.
@@ -18,7 +18,7 @@ module.exports = {
       Short bio: a practically-minded guy who is a data engineer at Affectiva and AI enthusiast and passionate about building software applications.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
-    w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
+    w3l_dom_key: `5eac961f0afcdCF_Domain_verify` 
   },
   plugins: [
     {
