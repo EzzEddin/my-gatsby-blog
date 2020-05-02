@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://ezzeddin.netlify.app/`, 
     home: {
       title: `Hi! I'm Ezz`,
-      description: `I I made this portfolio to talk about what I do and what I read.
+      description: `I made this portfolio to talk about what I do and what I read.
 
       Short bio: a practically-minded guy who is a data engineer at Affectiva and AI enthusiast and passionate about building software applications.`,
     },
