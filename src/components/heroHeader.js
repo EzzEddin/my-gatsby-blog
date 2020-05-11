@@ -33,7 +33,7 @@ export default () => (
           >
             <div className="clear">
               <input
-                className="btn btn-primary btn-xl"
+                className="btn"
                 type="submit"
                 value="Subscribe to my newsletter"
                 name="subsSubscribecribe"
