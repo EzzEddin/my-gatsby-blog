@@ -33,6 +33,16 @@ export default () => (
             <div id="mc_embed_signup_scroll">
               <label for="mce-EMAIL">Subscribe</label>
             </div>
+            <div class="clear">
+              <input
+                class="btn btn-primary btn-xl"
+                type="submit"
+                value="Find out more"
+                name="subsSubscribecribe"
+                id="mc-embedded-subscribe"
+                class="button"
+              />
+            </div>
           </form>
         </div>
       </div>
