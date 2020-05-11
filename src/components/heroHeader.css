@@ -1,6 +1,10 @@
 .btn {
   font-weight: 700;
+  background-color: #381696;
+  border-color: #381696;
+  padding: 1rem 2rem;
   text-transform: uppercase;
   border-radius: 300px;
+  border-width: 5px;
   font-family: "Montserrat", sans-serif;
 }
