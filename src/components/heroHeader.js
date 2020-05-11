@@ -20,9 +20,7 @@ export default () => (
         <div className="primary-content">
           <p>{data.site.siteMetadata.home.description}</p>
         </div>
-        <Link to="/contact" className="button -primary">
-          Get in touch &rarr;
-        </Link>
+        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
         <div>
           <form
             action="https://linkedin.us19.list-manage.com/subscribe/post?u=7afb7748d806c305dc0bb53e1&amp;id=3b81882f80"
