@@ -32,10 +32,6 @@ export default () => (
           >
             <div id="mc_embed_signup_scroll">
               <label for="mce-EMAIL">Subscribe</label>
-              <div
-                style="position: absolute; left: -5000px;"
-                aria-hidden="true"
-              ></div>
             </div>
           </form>
         </div>
