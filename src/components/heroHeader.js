@@ -27,13 +27,13 @@ export default () => (
             method="post"
             id="mc-embedded-subscribe-form"
             name="mc-embedded-subscribe-form"
-            class="validate"
+            className="validate"
             target="_blank"
             novalidate
           >
-            <div class="clear">
+            <div className="clear">
               <input
-                class="btn btn-primary btn-xl"
+                className="btn btn-primary btn-xl"
                 type="submit"
                 value="Subscribe to my newsletter"
                 name="subsSubscribecribe"
