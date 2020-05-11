@@ -30,14 +30,11 @@ export default () => (
             target="_blank"
             novalidate
           >
-            <div id="mc_embed_signup_scroll">
-              <label for="mce-EMAIL">Subscribe</label>
-            </div>
             <div class="clear">
               <input
                 class="btn btn-primary btn-xl"
                 type="submit"
-                value="Find out more"
+                value="Subscribe to my newsletter"
                 name="subsSubscribecribe"
                 id="mc-embedded-subscribe"
                 class="button"
