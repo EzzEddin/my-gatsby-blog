@@ -29,7 +29,22 @@ export default () => (
             class="validate"
             target="_blank"
             novalidate
-          ></form>
+          >
+            <div id="mc_embed_signup_scroll">
+              <label for="mce-EMAIL">Subscribe</label>
+              <div
+                style="position: absolute; left: -5000px;"
+                aria-hidden="true"
+              >
+                <input
+                  type="text"
+                  name="b_7afb7748d806c305dc0bb53e1_3b81882f80"
+                  tabindex="-1"
+                  value=""
+                />
+              </div>
+            </div>
+          </form>
         </div>
       </div>
     )}
