@@ -7,7 +7,6 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Ezz`,
     description: `A blog to talk about what Ezz reads and learns.`,
     // change this to you website url
     siteUrl: `https://ezzeddin.netlify.app/`, 
