@@ -5,7 +5,6 @@ import Linkedin from "./linkedin.svg";
 
 export default props => (
   <nav className="navigation">
-    <p>Hey</p>
     <ThemeChanger />
   </nav>
 );
