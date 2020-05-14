@@ -21,7 +21,6 @@ export default ({ children }) => {
         <div className="site-title">
           <Link to="/">{data.site.siteMetadata.title}</Link>
         </div>
-        <Navigation />
       </header>
       {children}
       <footer className="site-footer">
